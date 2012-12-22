@@ -1,0 +1,10 @@
+name: BlocksThatSpread
+main: com.github.jordanburnam.bukkit.plugin.BlocksThatSpread.BlocksThatSpread
+version: 0.0.1
+
+commands:
+   basic:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: BlocksThatSpread.basic
+      permission-message: You don't have BlocksThatSpread.basic permission
